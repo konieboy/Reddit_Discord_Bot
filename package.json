@@ -1,0 +1,23 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "A bot for my friends to use in discord.",
+  "main": "app.js",
+  "scripts": {
+    "test": "test123"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/konieboy/FriendlyDiscordBot.git"
+  },
+  "author": "Konrad Wisniewski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/konieboy/FriendlyDiscordBot/issues"
+  },
+  "homepage": "https://github.com/konieboy/FriendlyDiscordBot#readme",
+  "dependencies": {
+    "discord.js": "^11.1.0",
+    "node-fetch": "^1.7.2"
+  }
+}
